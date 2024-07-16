@@ -1,0 +1,4 @@
+Lista de articulos para comprar: 
+-n
+-m
+-v
